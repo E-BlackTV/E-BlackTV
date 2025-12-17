@@ -12,11 +12,11 @@
 
 I am a passionate developer who thrives on ownership and persistence. I don't stop until the solution is perfect.
 
-- [cite_start]💼 **Experience:** As a Fullstack Developer at **Worklivery**, I built web apps using Angular, Flutter, and Kotlin, and automated design workflows[cite: 13, 14, 65, 66].
-- [cite_start]🎓 **Education:** Completed apprenticeship as an Application Developer (Coding Academy WIFI Wels)[cite: 12, 47].
-- [cite_start]🌱 **Focus:** Currently deepening my knowledge in **C#** and software architecture[cite: 19].
-- [cite_start]💡 **Projects:** Ranging from Unity game development to API testing and UI design[cite: 20, 69].
-- [cite_start]💬 **Soft Skills:** Teamwork, honesty, and a hands-on mentality (shaped by my time at the family business, Electronic Center Wels)[cite: 21, 22, 70, 71].
+- 💼 **Experience:** As a Fullstack Developer at **Worklivery**, I built web apps using Angular, Flutter, and Kotlin, and automated design workflows.
+- 🎓 **Education:** Completed apprenticeship as an Application Developer (Coding Academy WIFI Wels).
+- 🌱 **Focus:** Currently deepening my knowledge in **C#** and software architecture.
+- 💡 **Projects:** Ranging from Unity game development to API testing and UI design.
+- 💬 **Soft Skills:** Teamwork, honesty, and a hands-on mentality (shaped by my time at the family business, Electronic Center Wels).
 
 ---
 
