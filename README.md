@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Emirhan+Celik+Sahin;Fullstack+Developer;C%23+%26+Mobile+Enthusiast;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=hi%2C+I'm+Emirhan+Celik+Sahin;Fullstack+Developer;C%23+%26+Mobile+Enthusiast;Problem+Solver" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -40,7 +40,7 @@ My stack is versatile – ranging from Web to Mobile.
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=E-BlackTV&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="streak" />
+  <a src="https://github-readme-streak-stats.herokuapp.com/?user=E-BlackTV&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="streak" />
 </div>
 
 ---
