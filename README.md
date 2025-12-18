@@ -11,36 +11,50 @@
 </pre>
 </div>
 
----
+```bash
+# SYSTEM BOOT...
+# CONNECTED TO: root@emirhan-system
+# LOADING USER PROFILE...
 
-### 👨‍💻 About Me
+      ,----------------,              root@emirhan-pc
+     /    EMIRHAN     /|              ---------------
+    /    SAHIN       / |              OS:      Arch Linux (v5.19)
+   /     DEV        /  |              Host:    Fullstack Engine
+  /________________/   |              Kernel:  Problem_Solver_v1.0
+  |  _____________ |   |              Uptime:  Always Learning
+  | |$ ./code     ||   |              Shell:   ZSH (Purple Theme)
+  | |             ||   |              Resolution: 1920x1080
+  | |   < />      ||   |              DE:      VS Code / IntelliJ
+  | |_____________||   |              WM:      i3-gaps
+  |________________|   /              
+   \______________/   /               Permissions: rwx-rwx-rwx (Full Access)
+    \____________/   /                Location:    Wels, Austria 🇦🇹
+     \__________/   /                 Status:      Building & Breaking
+      \________/   / 
+       \______/   / 
+        \____/   /                    
+         \__/   /                     
+          \__/_/
 
-I am a passionate developer who thrives on ownership and persistence. I don't stop until the solution is perfect.
+# CURRENT_STACK_CONFIG (skills.yaml)
+# ----------------------------------
+languages:
+  - name: Kotlin      level: [████████░░]
+  - name: Dart        level: [███████░░░]
+  - name: Python      level: [████░░░░░░]
+  - name: Java        level: [██████░░░░]
 
-- 💼 **Experience:** As a Fullstack Developer at **Worklivery**, I built web apps using Angular, Flutter, and Kotlin, and automated design workflows.
-- 🎓 **Education:** Completed apprenticeship as an Application Developer (Coding Academy WIFI Wels).
-- 🌱 **Focus:** Currently deepening my knowledge in **Linux OS**, **Dart**, **Python**, and **Deluge**, while also diving into **Domain Driven Design**.
-- 💡 **Projects:** Ranging from Unity game development to API testing and UI design.
-- 💬 **Soft Skills:** Teamwork, honesty, and a hands-on mentality (shaped by my time at the family business, Electronic Center Wels).
+frameworks:
+  - name: Flutter     status: "Active Development"
+  - name: Angular     status: "Maintenance"
 
----
+tools:
+  - [Git, Linux, Docker, Figma, Postman]
 
-### 🛠 Tech Stack
-
-My stack is versatile – ranging from Web to Mobile.
-
-> ⚠️ **Note:** The icons below represent technologies I have worked with in projects and during my apprenticeship. They indicate my familiarity and practical experience, not necessarily complete mastery yet. Always learning! 🚀
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=cs,angular,kotlin,flutter,dart,java,python,php,swift,html,css,js,ts,sql,linux&perline=8" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=git,github,figma,postman,idea,vscode,unity,notion&perline=8" />
-</div>
-
----
-
-### 📊 GitHub Statistics
-
+  # GITHUB_METRICS (stats.sh)
+# ----------------------------------
+$ ./show-stats --color=purple --theme=dark
+```
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=E-BlackTV&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=9146FF&icon_color=9146FF" height="180" alt="stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=E-BlackTV&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=9146FF" height="180" alt="languages" />
@@ -52,15 +66,23 @@ My stack is versatile – ranging from Web to Mobile.
   </a>
 </div>
 
----
+```
+# ESTABLISH_CONNECTION
+# ----------------------------------
+```
 
-### 📫 Connect with me
-
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/EBlackTV">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-9146FF?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+    <br>
   <a href="mailto:&#115;&#97;&#104;&#105;&#110;&#46;&#101;&#109;&#105;&#114;&#104;&#97;&#110;&#64;&#103;&#109;&#120;&#46;&#97;&#116;">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
+
+```
+# SYSTEM LOGOUT...
+$ exit
+
+
