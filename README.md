@@ -1,9 +1,14 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=hi%2C+I'm+Emirhan+Celik+Sahin;Fullstack+Developer;C%23+%26+Mobile+Enthusiast;Problem+Solver" alt="Typing SVG" />
-</div>
 
 <div align="center">
-  <h3>🚀 Junior Developer based in Wels, Austria</h3>
+<pre>
+███████╗███╗   ███╗██╗██████╗ ██╗  ██╗ █████╗ ███╗   ██╗
+██╔════╝████╗ ████║██║██╔══██╗██║  ██║██╔══██╗████╗  ██║
+█████╗  ██╔████╔██║██║██████╔╝███████║███████║██╔██╗ ██║
+██╔══╝  ██║╚██╔╝██║██║██╔══██╗██╔══██║██╔══██║██║╚██╗██║
+███████╗██║ ╚═╝ ██║██║██║  ██║██║  ██║██║  ██║██║ ╚████║
+╚══════╝╚═╝     ╚═╝╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
+    🚀 JUNIOR FULLSTACK DEVELOPER | WELS, AUSTRIA 🚀
+</pre>
 </div>
 
 ---
@@ -14,7 +19,7 @@ I am a passionate developer who thrives on ownership and persistence. I don't st
 
 - 💼 **Experience:** As a Fullstack Developer at **Worklivery**, I built web apps using Angular, Flutter, and Kotlin, and automated design workflows.
 - 🎓 **Education:** Completed apprenticeship as an Application Developer (Coding Academy WIFI Wels).
-- 🌱 **Focus:** Currently deepening my knowledge in **C#** and software architecture.
+- 🌱 **Focus:** Currently deepening my knowledge in **Linux OS**, **Dart**, **Python**, and **Deluge**, while also diving into **Domain Driven Design**.
 - 💡 **Projects:** Ranging from Unity game development to API testing and UI design.
 - 💬 **Soft Skills:** Teamwork, honesty, and a hands-on mentality (shaped by my time at the family business, Electronic Center Wels).
 
@@ -24,8 +29,10 @@ I am a passionate developer who thrives on ownership and persistence. I don't st
 
 My stack is versatile – ranging from Web to Mobile.
 
+> ⚠️ **Note:** The icons below represent technologies I have worked with in projects and during my apprenticeship. They indicate my familiarity and practical experience, not necessarily complete mastery yet. Always learning! 🚀
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cs,angular,kotlin,flutter,dart,java,python,php,swift,html,css,js,ts,sql&perline=7" />
+  <img src="https://skillicons.dev/icons?i=cs,angular,kotlin,flutter,dart,java,python,php,swift,html,css,js,ts,sql,linux&perline=8" />
   <br>
   <img src="https://skillicons.dev/icons?i=git,github,figma,postman,idea,vscode,unity,notion&perline=8" />
 </div>
@@ -35,12 +42,14 @@ My stack is versatile – ranging from Web to Mobile.
 ### 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=E-BlackTV&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=E-BlackTV&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=E-BlackTV&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=9146FF&icon_color=9146FF" height="180" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=E-BlackTV&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=9146FF" height="180" alt="languages" />
 </div>
 
 <div align="center">
-  <a src="https://github-readme-streak-stats.herokuapp.com/?user=E-BlackTV&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="streak" />
+  <a href="https://github.com/E-BlackTV">
+    <img src="https://streak-stats.demolab.com?user=E-BlackTV&theme=dark&hide_border=true&background=0D1117&ring=9146FF&currStreakLabel=9146FF" alt="GitHub Streak" />
+  </a>
 </div>
 
 ---
