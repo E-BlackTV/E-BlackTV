@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="480" viewBox="0 0 1200 480" role="img" aria-labelledby="title desc">
+  <title id="title">E-BlackTV — Code. Create. Repeat.</title>
+  <desc id="desc">An orange and charcoal developer banner with a geometric E monogram. Web, mobile and automation.</desc>
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#f6f2e9" stroke-opacity=".045"/>
+    </pattern>
+    <clipPath id="frame"><rect width="1200" height="480" rx="20"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="480" fill="#111310"/>
+    <rect x="780" width="420" height="480" fill="#181b17"/>
+    <rect width="1200" height="480" fill="url(#grid)"/>
+    <circle cx="1056" cy="240" r="206" fill="none" stroke="#34382f"/>
+    <circle cx="1056" cy="240" r="166" fill="none" stroke="#34382f"/>
+    <path d="M850 240h412M1056 34v412" stroke="#34382f"/>
+    <path d="M918 136h240l-24 60H894zm-40 88h212l-24 60H854zm-40 88h240l-24 60H814z" fill="#ff6b35"/>
+    <path d="M1103 224h55l-24 60h-55z" fill="#f6f2e9"/>
+    <rect x="48" y="44" width="8" height="8" fill="#ff6b35"/>
+    <text x="70" y="55" fill="#d2d5cb" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="16" letter-spacing="2">INDEPENDENT BUILD LOG</text>
+    <text x="1152" y="55" text-anchor="end" fill="#a5ad9c" font-family="'SFMono-Regular',Consolas,monospace" font-size="15">&lt;/&gt;</text>
+    <text x="42" y="216" fill="#f6f2e9" font-family="Impact,'Arial Narrow',sans-serif" font-size="128" letter-spacing="-1">E-BLACKTV</text>
+    <text x="50" y="278" fill="#ff6b35" font-family="'Helvetica Neue',Helvetica,sans-serif" font-size="34" font-weight="500" letter-spacing="-.5">Code. Create. Repeat.</text>
+    <text x="50" y="324" fill="#b0b8a8" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="19">Ideas into interfaces. Repetition into code.</text>
+    <path d="M48 390H1152" stroke="#3b4035"/>
+    <g font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="16" letter-spacing="1">
+      <text x="48" y="436" fill="#ff6b35">01<tspan fill="#e0e4d9"> / WEB</tspan></text>
+      <text x="270" y="436" fill="#ff6b35">02<tspan fill="#e0e4d9"> / MOBILE</tspan></text>
+      <text x="530" y="436" fill="#ff6b35">03<tspan fill="#e0e4d9"> / AUTOMATION</tspan></text>
+      <text x="1152" y="436" text-anchor="end" fill="#a5ad9c">ALWAYS ITERATING ↗</text>
+    </g>
+  </g>
+</svg>
