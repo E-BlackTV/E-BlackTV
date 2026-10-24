@@ -1,45 +1,158 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="310" viewBox="0 0 1200 310" role="img" aria-labelledby="title desc">
-<title id="title">The toolkit</title>
-<desc id="desc">TypeScript, Angular, Flutter, Python, Kotlin and Linux.</desc>
-<rect width="1200" height="310" rx="20" fill="#111310"/>
-<text x="48" y="50" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="18" fill="#ff9662" letter-spacing="2">02 / TOOLKIT</text>
-<g transform="translate(48 82)">
-<rect width="164" height="150" rx="12" fill="#1a1e18" stroke="#30372b"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="840" viewBox="0 0 1200 840" role="img" aria-labelledby="title desc">
+<title id="title">The toolkit — 24 technologies and tools</title>
+<desc id="desc">WEB: TypeScript, JavaScript, Angular, HTML, CSS, PHP; APPS &amp; LANGUAGES: Flutter, Dart, Kotlin, Swift, Java, C#; DATA &amp; SYSTEMS: Python, SQL, Deluge, Linux, Git, GitHub; DESIGN &amp; TOOLS: Figma, Postman, IntelliJ IDEA, VS Code, Unity, Notion.</desc>
+<rect width="1200" height="840" rx="20" fill="#111310"/>
+<text x="48" y="50" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="20" fill="#ff9662" letter-spacing="2">02 / TOOLKIT</text>
+<text x="1152" y="50" text-anchor="end" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="16" fill="#85917d">24 / TOOLS</text>
+<text x="48" y="94" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="16" letter-spacing="1.5" fill="#bac1b3">WEB</text>
+<g transform="translate(48 112)">
+<rect width="164" height="118" rx="12" fill="#1a1e18" stroke="#30372b"/>
 <path d="M16 1H48" stroke="#ff6b35" stroke-width="2"/>
-<g transform="translate(54 21)"><rect x="0" y="0" width="58" height="58" rx="6" fill="#ff6b35"/><text x="8" y="45" font-family="Helvetica,sans-serif" font-size="35" font-weight="800" fill="#111310">TS</text></g>
-<text x="82" y="121" text-anchor="middle" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="19" fill="#e0e4d9">TypeScript</text>
+<g transform="translate(59 13) scale(.8)"><rect width="58" height="58" rx="7" fill="#ff6b35"/><text x="29" y="39" text-anchor="middle" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="29" font-weight="700" fill="#111310">TS</text></g>
+<text x="82" y="92" text-anchor="middle" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="19" fill="#e0e4d9">TypeScript</text>
 </g>
-<g transform="translate(234 82)">
-<rect width="164" height="150" rx="12" fill="#1a1e18" stroke="#30372b"/>
+<g transform="translate(234 112)">
+<rect width="164" height="118" rx="12" fill="#1a1e18" stroke="#30372b"/>
 <path d="M16 1H48" stroke="#ff6b35" stroke-width="2"/>
-<g transform="translate(54 21)"><path d="M29 0L58 10 53 45 29 60 5 45 0 10Z" fill="none" stroke="#ff6b35" stroke-width="3"/><path d="M14 43L29 12 44 43M20 32H38" fill="none" stroke="#f6f2e9" stroke-width="5"/></g>
-<text x="82" y="121" text-anchor="middle" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="19" fill="#e0e4d9">Angular</text>
+<g transform="translate(59 13) scale(.8)"><rect width="58" height="58" rx="7" fill="#ff6b35"/><text x="29" y="39" text-anchor="middle" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="29" font-weight="700" fill="#111310">JS</text></g>
+<text x="82" y="92" text-anchor="middle" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="19" fill="#e0e4d9">JavaScript</text>
 </g>
-<g transform="translate(420 82)">
-<rect width="164" height="150" rx="12" fill="#1a1e18" stroke="#30372b"/>
+<g transform="translate(420 112)">
+<rect width="164" height="118" rx="12" fill="#1a1e18" stroke="#30372b"/>
 <path d="M16 1H48" stroke="#ff6b35" stroke-width="2"/>
-<g transform="translate(54 21)"><path d="M36 0H58L20 38 9 27Z" fill="#ff9662"/><path d="M36 24H58L32 50 21 39Z" fill="#ff6b35"/><path d="M32 50L43 39 58 54H36Z" fill="#a64b29"/></g>
-<text x="82" y="121" text-anchor="middle" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="19" fill="#e0e4d9">Flutter</text>
+<g transform="translate(59 13) scale(.8)"><path d="M29 0L58 10 53 45 29 60 5 45 0 10Z" fill="none" stroke="#ff6b35" stroke-width="3"/><path d="M14 43L29 12 44 43M20 32H38" fill="none" stroke="#f6f2e9" stroke-width="5"/></g>
+<text x="82" y="92" text-anchor="middle" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="19" fill="#e0e4d9">Angular</text>
 </g>
-<g transform="translate(606 82)">
-<rect width="164" height="150" rx="12" fill="#1a1e18" stroke="#30372b"/>
+<g transform="translate(606 112)">
+<rect width="164" height="118" rx="12" fill="#1a1e18" stroke="#30372b"/>
 <path d="M16 1H48" stroke="#ff6b35" stroke-width="2"/>
-<g transform="translate(54 21)"><path d="M12 22V10Q12 1 26 1H35Q47 1 47 12V26H26V31H8Q0 31 0 23V22Z" fill="#ff6b35"/><path d="M47 37V49Q47 58 33 58H24Q12 58 12 47V33H33V28H51Q59 28 59 36V37Z" fill="#f6f2e9"/><circle cx="22" cy="10" r="3" fill="#111310"/><circle cx="37" cy="49" r="3" fill="#111310"/></g>
-<text x="82" y="121" text-anchor="middle" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="19" fill="#e0e4d9">Python</text>
+<g transform="translate(59 13) scale(.8)"><path d="M5 2H53L49 51 29 58 9 51Z" fill="#ff6b35"/><path d="M17 14H42M17 14L19 29H39L37 42 29 45 21 42" fill="none" stroke="#111310" stroke-width="5"/></g>
+<text x="82" y="92" text-anchor="middle" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="19" fill="#e0e4d9">HTML</text>
 </g>
-<g transform="translate(792 82)">
-<rect width="164" height="150" rx="12" fill="#1a1e18" stroke="#30372b"/>
+<g transform="translate(792 112)">
+<rect width="164" height="118" rx="12" fill="#1a1e18" stroke="#30372b"/>
 <path d="M16 1H48" stroke="#ff6b35" stroke-width="2"/>
-<g transform="translate(54 21)"><path d="M0 0H58L29 29 58 58H0Z" fill="#ff6b35"/><path d="M0 0H29L0 29Z" fill="#ffb58a"/></g>
-<text x="82" y="121" text-anchor="middle" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="19" fill="#e0e4d9">Kotlin</text>
+<g transform="translate(59 13) scale(.8)"><path d="M5 2H53L49 51 29 58 9 51Z" fill="none" stroke="#ff9662" stroke-width="3"/><path d="M16 15H42L39 42 29 46 19 42M22 28H40" fill="none" stroke="#ff6b35" stroke-width="5"/></g>
+<text x="82" y="92" text-anchor="middle" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="19" fill="#e0e4d9">CSS</text>
 </g>
-<g transform="translate(978 82)">
-<rect width="164" height="150" rx="12" fill="#1a1e18" stroke="#30372b"/>
+<g transform="translate(978 112)">
+<rect width="164" height="118" rx="12" fill="#1a1e18" stroke="#30372b"/>
 <path d="M16 1H48" stroke="#ff6b35" stroke-width="2"/>
-<g transform="translate(54 21)"><rect width="64" height="54" y="3" rx="8" fill="none" stroke="#46503f" stroke-width="2"/><path d="M12 18L24 30 12 42M33 42H51" fill="none" stroke="#ff9662" stroke-width="4"/></g>
-<text x="82" y="121" text-anchor="middle" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="19" fill="#e0e4d9">Linux</text>
+<g transform="translate(59 13) scale(.8)"><ellipse cx="29" cy="29" rx="29" ry="20" fill="#ff6b35"/><text x="29" y="36" text-anchor="middle" font-family="Helvetica,sans-serif" font-size="23" font-weight="700" font-style="italic" fill="#111310">php</text></g>
+<text x="82" y="92" text-anchor="middle" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="19" fill="#e0e4d9">PHP</text>
 </g>
-<path d="M32 255H1168" stroke="#343a2f"/>
-<text x="48" y="286" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="15" fill="#85917d">DESIGN → BUILD → REFINE</text>
-<text x="1168" y="286" text-anchor="end" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="18" fill="#ff9662">&lt;/&gt;</text>
+<text x="48" y="269" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="16" letter-spacing="1.5" fill="#bac1b3">APPS &amp; LANGUAGES</text>
+<g transform="translate(48 287)">
+<rect width="164" height="118" rx="12" fill="#1a1e18" stroke="#30372b"/>
+<path d="M16 1H48" stroke="#ff6b35" stroke-width="2"/>
+<g transform="translate(59 13) scale(.8)"><path d="M36 0H58L20 38 9 27Z" fill="#ff9662"/><path d="M36 24H58L32 50 21 39Z" fill="#ff6b35"/><path d="M32 50L43 39 58 54H36Z" fill="#a64b29"/></g>
+<text x="82" y="92" text-anchor="middle" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="19" fill="#e0e4d9">Flutter</text>
+</g>
+<g transform="translate(234 287)">
+<rect width="164" height="118" rx="12" fill="#1a1e18" stroke="#30372b"/>
+<path d="M16 1H48" stroke="#ff6b35" stroke-width="2"/>
+<g transform="translate(59 13) scale(.8)"><path d="M8 8L36 1 58 25V58H25L1 36Z" fill="#a64b29"/><path d="M8 8H34L58 32V58Z" fill="#ff9662"/><path d="M8 8L58 58H32L8 34Z" fill="#ff6b35"/></g>
+<text x="82" y="92" text-anchor="middle" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="19" fill="#e0e4d9">Dart</text>
+</g>
+<g transform="translate(420 287)">
+<rect width="164" height="118" rx="12" fill="#1a1e18" stroke="#30372b"/>
+<path d="M16 1H48" stroke="#ff6b35" stroke-width="2"/>
+<g transform="translate(59 13) scale(.8)"><path d="M0 0H58L29 29 58 58H0Z" fill="#ff6b35"/><path d="M0 0H29L0 29Z" fill="#ffb58a"/></g>
+<text x="82" y="92" text-anchor="middle" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="19" fill="#e0e4d9">Kotlin</text>
+</g>
+<g transform="translate(606 287)">
+<rect width="164" height="118" rx="12" fill="#1a1e18" stroke="#30372b"/>
+<path d="M16 1H48" stroke="#ff6b35" stroke-width="2"/>
+<g transform="translate(59 13) scale(.8)"><path d="M4 17L27 35 10 8 39 31Q44 22 38 7Q59 22 50 42L58 54Q48 48 42 51Q20 61 5 40Q20 48 31 42Z" fill="#ff9662"/></g>
+<text x="82" y="92" text-anchor="middle" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="19" fill="#e0e4d9">Swift</text>
+</g>
+<g transform="translate(792 287)">
+<rect width="164" height="118" rx="12" fill="#1a1e18" stroke="#30372b"/>
+<path d="M16 1H48" stroke="#ff6b35" stroke-width="2"/>
+<g transform="translate(59 13) scale(.8)"><path d="M11 29H43L40 45Q27 54 14 45Z" fill="none" stroke="#ff9662" stroke-width="3"/><path d="M43 31H49Q58 40 42 43M7 54H48" fill="none" stroke="#ff9662" stroke-width="3"/><path d="M24 23C9 13 40 15 25 2M34 24C22 17 45 16 37 8" fill="none" stroke="#ff6b35" stroke-width="3"/></g>
+<text x="82" y="92" text-anchor="middle" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="19" fill="#e0e4d9">Java</text>
+</g>
+<g transform="translate(978 287)">
+<rect width="164" height="118" rx="12" fill="#1a1e18" stroke="#30372b"/>
+<path d="M16 1H48" stroke="#ff6b35" stroke-width="2"/>
+<g transform="translate(59 13) scale(.8)"><path d="M29 1L55 16V44L29 59 3 44V16Z" fill="#ff6b35"/><text x="29" y="39" text-anchor="middle" font-family="Helvetica,sans-serif" font-size="28" font-weight="700" fill="#111310">C#</text></g>
+<text x="82" y="92" text-anchor="middle" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="19" fill="#e0e4d9">C#</text>
+</g>
+<text x="48" y="444" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="16" letter-spacing="1.5" fill="#bac1b3">DATA &amp; SYSTEMS</text>
+<g transform="translate(48 462)">
+<rect width="164" height="118" rx="12" fill="#1a1e18" stroke="#30372b"/>
+<path d="M16 1H48" stroke="#ff6b35" stroke-width="2"/>
+<g transform="translate(59 13) scale(.8)"><path d="M12 22V10Q12 1 26 1H35Q47 1 47 12V26H26V31H8Q0 31 0 23V22Z" fill="#ff6b35"/><path d="M47 37V49Q47 58 33 58H24Q12 58 12 47V33H33V28H51Q59 28 59 36V37Z" fill="#f6f2e9"/><circle cx="22" cy="10" r="3" fill="#111310"/><circle cx="37" cy="49" r="3" fill="#111310"/></g>
+<text x="82" y="92" text-anchor="middle" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="19" fill="#e0e4d9">Python</text>
+</g>
+<g transform="translate(234 462)">
+<rect width="164" height="118" rx="12" fill="#1a1e18" stroke="#30372b"/>
+<path d="M16 1H48" stroke="#ff6b35" stroke-width="2"/>
+<g transform="translate(59 13) scale(.8)"><path d="M7 12V46C7 61 51 61 51 46V12M7 28C7 43 51 43 51 28M7 42C7 57 51 57 51 42" fill="none" stroke="#ff9662" stroke-width="3"/><ellipse cx="29" cy="12" rx="22" ry="9" fill="#ff6b35"/></g>
+<text x="82" y="92" text-anchor="middle" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="19" fill="#e0e4d9">SQL</text>
+</g>
+<g transform="translate(420 462)">
+<rect width="164" height="118" rx="12" fill="#1a1e18" stroke="#30372b"/>
+<path d="M16 1H48" stroke="#ff6b35" stroke-width="2"/>
+<g transform="translate(59 13) scale(.8)"><rect width="58" height="58" rx="7" fill="#273023"/><text x="29" y="39" text-anchor="middle" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="29" font-weight="700" fill="#ff9662">D</text></g>
+<text x="82" y="92" text-anchor="middle" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="19" fill="#e0e4d9">Deluge</text>
+</g>
+<g transform="translate(606 462)">
+<rect width="164" height="118" rx="12" fill="#1a1e18" stroke="#30372b"/>
+<path d="M16 1H48" stroke="#ff6b35" stroke-width="2"/>
+<g transform="translate(59 13) scale(.8)"><rect width="60" height="54" y="3" rx="8" fill="none" stroke="#46503f" stroke-width="2"/><path d="M12 18L24 30 12 42M33 42H49" fill="none" stroke="#ff9662" stroke-width="4"/></g>
+<text x="82" y="92" text-anchor="middle" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="19" fill="#e0e4d9">Linux</text>
+</g>
+<g transform="translate(792 462)">
+<rect width="164" height="118" rx="12" fill="#1a1e18" stroke="#30372b"/>
+<path d="M16 1H48" stroke="#ff6b35" stroke-width="2"/>
+<g transform="translate(59 13) scale(.8)"><rect x="8" y="8" width="42" height="42" rx="4" transform="rotate(45 29 29)" fill="#ff6b35"/><path d="M19 9V36M19 18L38 37" fill="none" stroke="#111310" stroke-width="4"/><g fill="#111310"><circle cx="19" cy="18" r="5"/><circle cx="19" cy="37" r="5"/><circle cx="38" cy="37" r="5"/></g></g>
+<text x="82" y="92" text-anchor="middle" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="19" fill="#e0e4d9">Git</text>
+</g>
+<g transform="translate(978 462)">
+<rect width="164" height="118" rx="12" fill="#1a1e18" stroke="#30372b"/>
+<path d="M16 1H48" stroke="#ff6b35" stroke-width="2"/>
+<g transform="translate(59 13) scale(.8)"><circle cx="29" cy="29" r="29" fill="#ff9662"/><path d="M15 23L14 12 25 17Q29 15 34 17L44 12 43 25Q50 46 30 46Q8 46 15 23Z" fill="#111310"/><path d="M24 44V58M35 44V58M25 49Q11 53 9 44" fill="none" stroke="#111310" stroke-width="5"/></g>
+<text x="82" y="92" text-anchor="middle" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="19" fill="#e0e4d9">GitHub</text>
+</g>
+<text x="48" y="619" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="16" letter-spacing="1.5" fill="#bac1b3">DESIGN &amp; TOOLS</text>
+<g transform="translate(48 637)">
+<rect width="164" height="118" rx="12" fill="#1a1e18" stroke="#30372b"/>
+<path d="M16 1H48" stroke="#ff6b35" stroke-width="2"/>
+<g transform="translate(59 13) scale(.8)"><path d="M29 2H18A9 9 0 0 0 18 20H29Z" fill="#ff6b35"/><path d="M29 2H40A9 9 0 0 1 40 20H29Z" fill="#ffb58a"/><path d="M29 20H18A9 9 0 0 0 18 38H29Z" fill="#a64b29"/><circle cx="38" cy="29" r="9" fill="#f6f2e9"/><path d="M29 38H18A9 9 0 1 0 29 47Z" fill="#ff9662"/></g>
+<text x="82" y="92" text-anchor="middle" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="19" fill="#e0e4d9">Figma</text>
+</g>
+<g transform="translate(234 637)">
+<rect width="164" height="118" rx="12" fill="#1a1e18" stroke="#30372b"/>
+<path d="M16 1H48" stroke="#ff6b35" stroke-width="2"/>
+<g transform="translate(59 13) scale(.8)"><circle cx="29" cy="29" r="29" fill="#ff6b35"/><path d="M13 45L24 24 43 10 49 16 34 35Z" fill="#f6f2e9"/><path d="M17 42L42 17M25 25L34 34" stroke="#111310" stroke-width="2"/></g>
+<text x="82" y="92" text-anchor="middle" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="19" fill="#e0e4d9">Postman</text>
+</g>
+<g transform="translate(420 637)">
+<rect width="164" height="118" rx="12" fill="#1a1e18" stroke="#30372b"/>
+<path d="M16 1H48" stroke="#ff6b35" stroke-width="2"/>
+<g transform="translate(59 13) scale(.8)"><rect width="58" height="58" rx="5" fill="#ff6b35"/><rect x="8" y="8" width="42" height="42" fill="#111310"/><text x="15" y="31" font-family="Helvetica,sans-serif" font-size="23" font-weight="700" fill="#f6f2e9">IJ</text><path d="M15 43H30" stroke="#f6f2e9" stroke-width="3"/></g>
+<text x="82" y="92" text-anchor="middle" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="17" fill="#e0e4d9">IntelliJ IDEA</text>
+</g>
+<g transform="translate(606 637)">
+<rect width="164" height="118" rx="12" fill="#1a1e18" stroke="#30372b"/>
+<path d="M16 1H48" stroke="#ff6b35" stroke-width="2"/>
+<g transform="translate(59 13) scale(.8)"><path d="M42 0L58 7V51L42 58 13 36 4 44 0 40V18L4 14 13 22ZM42 15L23 29 42 43Z" fill="#ff9662" fill-rule="evenodd"/></g>
+<text x="82" y="92" text-anchor="middle" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="19" fill="#e0e4d9">VS Code</text>
+</g>
+<g transform="translate(792 637)">
+<rect width="164" height="118" rx="12" fill="#1a1e18" stroke="#30372b"/>
+<path d="M16 1H48" stroke="#ff6b35" stroke-width="2"/>
+<g transform="translate(59 13) scale(.8)"><path d="M29 2L54 17V43L29 58 4 43V17Z" fill="none" stroke="#ff9662" stroke-width="3"/><path d="M29 16L42 23V38L29 46 16 38V23ZM4 17L16 23M54 17L42 23M29 46V58" fill="none" stroke="#f6f2e9" stroke-width="3"/></g>
+<text x="82" y="92" text-anchor="middle" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="19" fill="#e0e4d9">Unity</text>
+</g>
+<g transform="translate(978 637)">
+<rect width="164" height="118" rx="12" fill="#1a1e18" stroke="#30372b"/>
+<path d="M16 1H48" stroke="#ff6b35" stroke-width="2"/>
+<g transform="translate(59 13) scale(.8)"><rect x="3" y="3" width="52" height="52" rx="4" fill="#f6f2e9"/><text x="29" y="44" text-anchor="middle" font-family="Georgia,serif" font-size="43" font-weight="700" fill="#111310">N</text></g>
+<text x="82" y="92" text-anchor="middle" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="19" fill="#e0e4d9">Notion</text>
+</g>
+<path d="M48 785H1152" stroke="#343a2f"/>
+<text x="48" y="816" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="16" fill="#85917d">DESIGN → BUILD → REFINE</text>
+<text x="1152" y="816" text-anchor="end" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="18" fill="#ff9662">&lt;/&gt;</text>
 </svg>

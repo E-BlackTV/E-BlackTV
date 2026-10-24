@@ -15,6 +15,6 @@
 <p>
 <picture>
   <source media="(max-width: 600px)" srcset="./assets/toolkit-mobile.svg">
-  <img src="./assets/toolkit.svg" width="100%" alt="Toolkit: TypeScript, Angular, Flutter, Python, Kotlin and Linux.">
+  <img src="./assets/toolkit.svg" width="100%" alt="Toolkit: WEB: TypeScript, JavaScript, Angular, HTML, CSS, PHP; APPS &amp; LANGUAGES: Flutter, Dart, Kotlin, Swift, Java, C#; DATA &amp; SYSTEMS: Python, SQL, Deluge, Linux, Git, GitHub; DESIGN &amp; TOOLS: Figma, Postman, IntelliJ IDEA, VS Code, Unity, Notion.">
 </picture>
 </p>
